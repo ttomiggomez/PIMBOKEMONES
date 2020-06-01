@@ -1,0 +1,11 @@
+
+img {width:175px;
+height: 175px;}
+body {
+background-color: #ffcd3c;
+
+}
+hr{ border-style: groove none none;
+  border-top-color: #35d0ba;
+width: 50%;
+}
